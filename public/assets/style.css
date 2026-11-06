@@ -1,0 +1,4 @@
+body { font: 16px sans-serif; max-width: 750px; margin: 2rem auto; padding: 0 1rem; }
+label { display: block; margin: .5rem 0; }
+article { border: 1px solid #aaa; padding: 1rem; margin: 1rem 0; }
+form.inline { display: inline; margin: 0; }
